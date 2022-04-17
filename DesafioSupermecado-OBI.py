@@ -3,7 +3,7 @@
 N = int(input()) #número de supermercados
 lista = []
 
-for i in range(N): #Esse laço pega os valores da carne e a quantidade, em Kilograma, de seus respectivos Supermercados.
+for i in range(N): #Esse laço pega os valores da carne e a quantidade, em Quilograma, de seus respectivos Supermercados.
     valor = str(input())
     valores = valor.split()
     lista.append(float(valores[0]))
