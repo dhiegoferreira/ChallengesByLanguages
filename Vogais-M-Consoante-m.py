@@ -7,3 +7,4 @@ for i in range(len(palavra)):
             palavra[i] = palavra[i].upper()
             
 print(''.join(palavra))
+print(''.join(teste))
