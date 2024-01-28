@@ -1,0 +1,8 @@
+C:\Users\Development\source\repos\CleanArchMvc\CodilityChallenges\obj\Debug\CodilityChallenges.csproj.AssemblyReference.cache
+C:\Users\Development\source\repos\CleanArchMvc\CodilityChallenges\obj\Debug\CodilityChallenges.csproj.SuggestedBindingRedirects.cache
+C:\Users\Development\source\repos\CleanArchMvc\CodilityChallenges\obj\Debug\CodilityChallenges.csproj.CoreCompileInputs.cache
+C:\Users\Development\source\repos\CleanArchMvc\CodilityChallenges\bin\Debug\CodilityChallenges.exe.config
+C:\Users\Development\source\repos\CleanArchMvc\CodilityChallenges\bin\Debug\CodilityChallenges.exe
+C:\Users\Development\source\repos\CleanArchMvc\CodilityChallenges\bin\Debug\CodilityChallenges.pdb
+C:\Users\Development\source\repos\CleanArchMvc\CodilityChallenges\obj\Debug\CodilityChallenges.exe
+C:\Users\Development\source\repos\CleanArchMvc\CodilityChallenges\obj\Debug\CodilityChallenges.pdb
