@@ -34,6 +34,8 @@ namespace CodilityChallenges
             //N is an integer within the ange [1..2, 147, 483, 647]
             if (N < 1 && N > 999)
                 return 0;
+
+
             do
             {
                 remaining = N % 2;
